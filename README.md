@@ -1,8 +1,6 @@
 ### 👋 Hi, I'm Bartek
 
-..and I'm from Poland. 
-
-One of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.
+... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.
 
 ![Bartłomiej Graczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejgraczyk&show_icons=true&theme=onedark)
 
