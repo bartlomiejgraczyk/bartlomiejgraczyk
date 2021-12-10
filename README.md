@@ -1,7 +1,11 @@
-### Hi there 👋
+### 👋 Hi, I'm Bartek
 
-<!--
-**bartlomiejgraczyk/bartlomiejgraczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+..and I'm from Poland. 
+
+One of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.
+
+![Bartłomiej Graczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejgraczyk&show_icons=true&theme=onedark)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
