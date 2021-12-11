@@ -1,9 +1,11 @@
-<h1 align="center" >:wave: <span style="font-weight: normal">Hi, I'm</span> Bartek</h1>
+<h1 align="center" >:wave: Hi, I'm Bartek</h1>
 
 <p>... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.</p>
 
 ![Bartłomiej Graczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejgraczyk&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true)
 
+[![Github Badge](http://img.shields.io/badge/-Github-1b1f23?style=for-the-badge&logo=github&link=https://github.com/bartlomiejgraczyk)](https://github.com/bartlomiejgraczyk) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007ab9?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartlomiej-graczyk/)](https://www.linkedin.com/in/bartlomiej-graczyk/)
 
 Here are some ideas to get you started:
 
@@ -17,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f29200?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6cb33e?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-2f93df?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img alt="Java EE" src="https://img.shields.io/badge/-Java%20EE-feb322?style=for-the-badge&logo=java&logoColor=white" />
