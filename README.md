@@ -16,7 +16,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6cb33e?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=59666c" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-2f93df?style=for-the-badge&logo=apache-maven&logoColor=d24f46" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-0072c6?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-0072c6?style=for-the-badge&logo=databricks&logoColor=7fba00" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-f16528?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2a65f1?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fade34?style=for-the-badge&logo=javascript&logoColor=black" />
