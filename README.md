@@ -23,7 +23,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-c33624?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d0cecf?style=for-the-badge&logo=jenkins&logoColor=c33624" />
   <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-6fa418?style=for-the-badge&logo=mockito&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-2684ff?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-0052cc?style=for-the-badge&logo=BitBucket&logoColor=white" />
