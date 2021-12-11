@@ -2,7 +2,7 @@
 
 ... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.
 
-![Bartłomiej Graczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejgraczyk&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)
+![Bartłomiej Graczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejgraczyk&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true)
 
 
 Here are some ideas to get you started:
