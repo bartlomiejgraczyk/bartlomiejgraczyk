@@ -19,7 +19,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0072c6?style=for-the-badge&logo=databricks&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-f16528?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2a65f1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fade34?style=for-the-badge&logo=javascript" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fade34?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
