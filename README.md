@@ -2,15 +2,18 @@
 
 <p>... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.</p>
 
+<h3 align="left">🌍 Find me at</h3>
+
 [![Github Badge](http://img.shields.io/badge/-Github-1b1f23?style=for-the-badge&logo=github&link=https://github.com/bartlomiejgraczyk)](https://github.com/bartlomiejgraczyk) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007ab9?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartlomiej-graczyk/)](https://www.linkedin.com/in/bartlomiej-graczyk/)
+
+<h3 align="left"> :toolbox: Technologies and tools I use</h3>
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f29200?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6cb33e?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-2f93df?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img alt="Java EE" src="https://img.shields.io/badge/-Java%20EE-feb322?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0072c6?style=for-the-badge&logo=databricks&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-f16528?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2a65f1?style=for-the-badge&logo=css3&logoColor=white" />
