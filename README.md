@@ -1,4 +1,4 @@
-<h1 align="center" >:wave: Hi, I'm <span style="font-weight: bold">Bartek</span></h1>
+<h1 align="center" >:wave: <span style="font-weight: normal">Hi, I'm</span> Bartek</h1>
 
 <p>... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.</p>
 
