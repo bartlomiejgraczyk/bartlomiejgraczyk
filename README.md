@@ -21,9 +21,9 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2a65f1?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fade34?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=for-the-badge&logo=git&logoColor=1b1f23" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-3c6279?style=for-the-badge&logo=jenkins&logoColor=c33624" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d1cfd0?style=for-the-badge&logo=jenkins&logoColor=c33624" />
   <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-6fa418?style=for-the-badge&logo=mockito&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-2684ff?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-0052cc?style=for-the-badge&logo=BitBucket&logoColor=white" />
