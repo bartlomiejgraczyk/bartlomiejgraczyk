@@ -4,6 +4,7 @@
 
 <h3 align="left">🌍 Find me at</h3>
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bgraczyk.mail@gmail.com)](mailto:bgraczyk.mail@gmail.com)
 [![Github Badge](http://img.shields.io/badge/-Github-1b1f23?style=for-the-badge&logo=github&link=https://github.com/bartlomiejgraczyk)](https://github.com/bartlomiejgraczyk) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007ab9?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartlomiej-graczyk/)](https://www.linkedin.com/in/bartlomiej-graczyk/)
 
