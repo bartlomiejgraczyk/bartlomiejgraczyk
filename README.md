@@ -1,7 +1,7 @@
 <h1 align="center" >:wave: Hi, I'm Bartek</h1>
 
-<p> I'm an Information Technology student at 
-<p>... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like to in my short life.</p>
+<p> I'm an Information Technology student from Lodz, Poland
+<p>...and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like to in my short life.</p>
 
 <h3 align="left">🌍 Find me at</h3>
 
