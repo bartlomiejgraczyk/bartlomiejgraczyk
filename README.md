@@ -2,8 +2,6 @@
 
 <p>... and one of the saddest truths is that I won't be able to learn all the skills, know all the knowledge, and read all the books that I would like in my short life.</p>
 
-![Bartłomiej Graczyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejgraczyk&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true)
-
 [![Github Badge](http://img.shields.io/badge/-Github-1b1f23?style=for-the-badge&logo=github&link=https://github.com/bartlomiejgraczyk)](https://github.com/bartlomiejgraczyk) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-007ab9?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartlomiej-graczyk/)](https://www.linkedin.com/in/bartlomiej-graczyk/)
 
