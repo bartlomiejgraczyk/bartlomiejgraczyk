@@ -12,6 +12,7 @@
 <h3 align="left"> :toolbox: Technologies and tools I use</h3>
 
 <p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=B125EA" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-f29200?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6cb33e?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=59666c" />
@@ -19,13 +20,10 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-0072c6?style=for-the-badge&logo=databricks&logoColor=7fba00" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-f16528?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2a65f1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fade34?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=for-the-badge&logo=git&logoColor=1b1f23" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d1cfd0?style=for-the-badge&logo=jenkins&logoColor=c33624" />
-  <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-6fa418?style=for-the-badge&logo=mockito&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-2684ff?style=for-the-badge&logo=jira&logoColor=white" />
-  <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-0052cc?style=for-the-badge&logo=BitBucket&logoColor=white" />
-  <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-253858?style=for-the-badge&logo=Confluence&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=3D2B1F" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=3D2B1F" />
 </p>
